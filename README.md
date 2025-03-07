@@ -12,20 +12,6 @@ Na próxima tela, copie a URL do repositório remoto.
 
 # PASSO 1:
 Vá para o PowerShell ou git Bash na raiz do seu projeto
-
-Exemplo:
-C:\Users\Aula\source\repos2\ECommerceDDD> ls
-Diretório: C:\Users\Aula\source\repos2\ECommerceDDD
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----        07/03/2025     20:30                ECommerceDDD.API
-d-----        07/03/2025     20:14                ECommerceDDD.Domain
-d-----        07/03/2025     20:15                ECommerceDDD.Infra
--a----        07/03/2025     20:40             76 .gitignore
--a----        07/03/2025     20:23           3027 ECommerceDDD.sln
-
-
 PS C:\Users\Aula\source\repos2\ECommerceDDD> git init
 Initialized empty Git repository in C:/Users/Aula/source/repos2/ECommerceDDD/.git/
 
