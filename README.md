@@ -12,7 +12,9 @@ Na próxima tela, copie a URL do repositório remoto.
 
 # PASSO 1:
 Vá para o PowerShell ou git Bash na raiz do seu projeto
+
 PS C:\Users\Aula\source\repos2\ECommerceDDD> git init
+#
 Initialized empty Git repository in C:/Users/Aula/source/repos2/ECommerceDDD/.git/
 
 # PASSO 2 - Add Origin:
